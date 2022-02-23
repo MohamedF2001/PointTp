@@ -1,0 +1,77 @@
+{
+	"resto":
+		[
+			{
+				"nom": "RESTAURANT LE RESTO COTONOU",
+				"services": "Services disponibles: Repas sur place · Vente à emporter · Livraison\n",
+				"adresse": "Piste Amalco, Cotonou",
+				"horaires": "Ouvert ⋅ Ferme à 03:00",
+				"tel": 97011111,
+				"description": "Le Resto est un restaurant/café où tout le monde peut se sentir comme chez lui grâce à sa mixité. En effet, la clientèle ; de toutes origines confondues, s'installe en terrasse ou au frais pour déguster soit des spécialités libanaises, européennes ou encore africaines à des prix confondus. \n",
+				"img": "https://material.angular.io/assets/img/examples/shiba2.jpg"
+			},
+			{
+				"nom": "LA TERASSE",
+				"services": "Services disponibles: Repas sur place · Vente à emporter · Livraison\n",
+				"adresse": "Rue 2315, Cotonou",
+				"horaires": "Ouvert ⋅ Ferme à 00:00",
+				"tel": 97184385,
+				"description": "Voilà depuis plus de 20 ans une très bonne adresse pour manger thaï au Bénin, que ce soit dans la salle climatisée ou dans le petit patio rafraîchi par un mur d'eau. Les plats sont copieux et savoureux (on a particulièrement aimé le poulet aux noix de cajou) et le service plutôt soigné.\n",
+				"img": "https://material.angular.io/assets/img/examples/shiba2.jpg"
+			},
+			{
+				"nom": "LE FESTIVAL DES GLACES",
+				"services": "Services disponibles: Repas sur place · Vente à emporter · Livraison\n",
+				"adresse": "03 BP 3286, Cotonou\n",
+				"horaires": "Ouvert ⋅ Ferme à 00:00\n",
+				"tel": 69696982,
+				"description": "Publier les menus, faciliter aux clients l'accès aux informations et partager avec eux les moments forts passés dans les locaux du Festival des Glaces\n",
+				"img": "https://material.angular.io/assets/img/examples/shiba2.jpg"
+			},
+			{
+				"nom": "MAD",
+				"services": "Services disponibles: Repas sur place · Vente à emporter · Livraison",
+				"adresse": "Piste Amalco, Cotonou",
+				"horaires": "Ouvert ⋅ Ferme à 03:00",
+				"tel": 97673169,
+				"description":"description a venir",
+				"img": "https://material.angular.io/assets/img/examples/shiba2.jpg"
+			},
+			{
+				"nom": "L'OISEAU BLEU RESTAURANT",
+				"services": "Services disponibles: Repas sur place · Service de drive · Livraison sans contact",
+				"adresse": "103 BP 01631 COTONOU Quartier JERICHO Carré 490 rue 511 de la pharmacie LE NOKOUE, Cotonou",
+				"horaires": "Ouvert 24h/24",
+				"tel": 61106060,
+				"description":"L’OISEAU BLEU est un restaurant-hôtel situé à Cotonou avec une annexe à Parakou. IL offre des services de restauration et d'hébergement à ses clients.\nIL propose également des services de livraison de repas au domicile et au bureau. ",
+				"img": "https://material.angular.io/assets/img/examples/shiba2.jpg"
+			},
+			{
+				"nom": "Mimi's Bénin",
+				"services": "Services disponibles: Repas sur place · Vente à emporter · Livraison",
+				"adresse": "Cotonou",
+				"horaires": "Ferme bientôt ⋅ 00:00 ⋅ Ouvre à 11:00 sam.",
+				"tel": 97571010,
+				"description":"Le meilleur fast-food du Bénin. Burgers � , poulet frit �, sandwichs �, frites �, steaks �, brochettes etc...\n",
+				"img": "https://material.angular.io/assets/img/examples/shiba2.jpg"
+			},
+			{
+				"nom": "Three One lounge bar restaurant",
+				"services": "Services disponibles: Repas sur place · Vente à emporter · Livraison",
+				"adresse": "Cotonou",
+				"horaires": "Ouvert ⋅ Ferme à 03:00",
+				"tel": 90929218,
+				"description":"RESTAURANT ET BAR situé a Akpakpa au bord des pavés de ahouassa à 500 m du carrefour AFRICANDO en allant vers l'hôpital de zone kowegbo\n",
+				"img": "https://material.angular.io/assets/img/examples/shiba2.jpg"
+			},
+			{
+				"nom": "Restaurant BABEL Lounge Bar",
+				"services": "Services disponibles: Repas sur place · Vente à emporter · Livraison",
+				"adresse": "01BP2893, Cotonou",
+				"horaires": "Ouvert ⋅ Ferme à 01:00",
+				"tel": 97975555,
+				"description":"Un restaurant sympa, Une Cuisine internationale, des mets raffinés et de qualité. . .Des Menus originaux à petits coûts.",
+				"img": "https://material.angular.io/assets/img/examples/shiba2.jpg"
+			}
+		]
+}

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PointTp</string>
+    <string name="Nom_Resto">Nom du restaurant</string>
+    <string name="Num_Resto">00000000</string>
+    <string name="Adresse_Resto">Adresse</string>
+    <string name="description">La description</string>
+    <string name="adresse">L\'adresse</string>
+    <string name="services">Les services</string>
+    <string name="horaires">Les horaires</string>
+    <string name="Nom">Le Nom</string>
+    <string name="tel">Le Numero</string>
+    <string name="details">Les details</string>
+    <string name="API">BTN API</string>
+</resources>
